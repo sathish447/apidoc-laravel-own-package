@@ -1,0 +1,13 @@
+{
+    "name": "sathish/apidoc",
+    "description": "read, display and check Api response and Request in laravel Freamework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sathish\\Apidoc\\": "src/"
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.42"
+    }
+}
